@@ -25,7 +25,6 @@ fn first_word(s: &String) -> usize {
             return i;
         }
     }
-
     s.len()
 }
 

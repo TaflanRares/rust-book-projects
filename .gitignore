@@ -1,0 +1,25 @@
+/target/
+*target/
+
+**/*.rs.bk
+
+Cargo.lock
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Rust analyzer / tooling
+*.pdb
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
